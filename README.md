@@ -1,5 +1,7 @@
 # Exchange Rate Analysis
 Author: Mai Pham
+Columbia University
+
 ## Datasets
 The dataset used in this project includes daily exchange rates in USD and monthly geopolitical risk (GPR) indices for 10 countries from January 2005 to November 2022. The daily data was resampled to represent monthly data, resulting in 4647 daily data points and 213 monthly data points collected. Additionally, 214 monthly interest rate data points were obtained from OECD to support later sections of the project.
 
