@@ -1,5 +1,6 @@
 # Exchange Rate Analysis
 Author: Mai Pham
+
 Columbia University
 
 ## Datasets
